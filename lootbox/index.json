@@ -1,0 +1,14 @@
+{
+    "games":[
+        {
+            "id":"example",
+            "name":"範例池",
+            "data":"~/example.json"
+        },
+        {
+            "id":"swy",
+            "name":"食物語",
+            "data":"~/demo.json"
+        }
+    ]
+}
