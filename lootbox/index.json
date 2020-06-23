@@ -4,6 +4,11 @@
             "id":"example",
             "name":"範例池",
             "data":"~/example.json"
+        },
+        {
+            "id":"arknights",
+            "name":"ARKNIGHTS",
+            "data":"~/arknights.json"
         }
     ]
 }
