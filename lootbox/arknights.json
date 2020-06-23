@@ -1,0 +1,773 @@
+{
+    "groups": [
+        {
+            "id": "SIX",
+            "color": "#FF4500",
+            "name": "★★★★★★",
+            "rate": 0.02
+        },
+        {
+            "id": "FIVE",
+            "color": "#F28500",
+            "name": "★★★★★",
+            "rate": 0.08
+        },
+        {
+            "id": "FOUR",
+            "color": "#9400D3",
+            "name": "★★★★",
+            "rate": 0.48
+        },
+        {
+            "id": "THREE",
+            "color": "#0D33FF",
+            "name": "★★★",
+            "rate": 0.42
+        },
+        {
+            "id": "TWO",
+            "color": "#808000",
+            "name": "★★",
+            "rate": 0
+        },
+        {
+            "id": "ONE",
+            "color": "#404040",
+            "name": "★",
+            "rate": 0
+        }
+    ],
+    "cards": [
+        {
+          "id": "12F",
+          "name": "12F",
+          "group": "TWO"
+        },
+        {
+          "id": "Aak",
+          "name": "阿",
+          "group": "SIX"
+        },
+        {
+          "id": "Adnachiel",
+          "name": "安德切爾",
+          "group": "THREE"
+        },
+        {
+          "id": "Ambriel",
+          "name": "安比爾",
+          "group": "FOUR"
+        },
+        {
+          "id": "Amiya",
+          "name": "阿米婭",
+          "group": "FIVE"
+        },
+        {
+          "id": "Angelina",
+          "name": "安潔莉娜",
+          "group": "SIX"
+        },
+        {
+          "id": "Ansel",
+          "name": "安賽爾",
+          "group": "THREE"
+        },
+        {
+          "id": "Astesia",
+          "name": "星極",
+          "group": "FIVE"
+        },
+        {
+          "id": "Bagpipe",
+          "name": "風笛",
+          "group": "SIX"
+        },
+        {
+          "id": "Beagle",
+          "name": "米格魯",
+          "group": "THREE"
+        },
+        {
+          "id": "Beehunter",
+          "name": "獵蜂",
+          "group": "FOUR"
+        },
+        {
+          "id": "Bibeak",
+          "name": "柏喙",
+          "group": "FIVE"
+        },
+        {
+          "id": "Bison",
+          "name": "拜松",
+          "group": "FIVE"
+        },
+        {
+          "id": "Blaze",
+          "name": "煌",
+          "group": "SIX"
+        },
+        {
+          "id": "BluePoison",
+          "name": "藍毒",
+          "group": "FIVE"
+        },
+        {
+          "id": "Breeze",
+          "name": "微風",
+          "group": "FIVE"
+        },
+        {
+          "id": "Broca",
+          "name": "布洛卡",
+          "group": "FIVE"
+        },
+        {
+          "id": "Cardigan",
+          "name": "卡緹",
+          "group": "THREE"
+        },
+        {
+          "id": "Castle-3",
+          "name": "Castle-3",
+          "group": "ONE"
+        },
+        {
+          "id": "Catapult",
+          "name": "空爆",
+          "group": "THREE"
+        },
+        {
+          "id": "Ceobe",
+          "name": "刻俄柏",
+          "group": "SIX"
+        },
+        {
+          "id": "Ceylon",
+          "name": "錫蘭",
+          "group": "FIVE"
+        },
+        {
+          "id": "Ch'en",
+          "name": "陳",
+          "group": "SIX"
+        },
+        {
+          "id": "Cliffheart",
+          "name": "崖心",
+          "group": "FIVE"
+        },
+        {
+          "id": "Conviction",
+          "name": "斷罪者",
+          "group": "FOUR"
+        },
+        {
+          "id": "Courier",
+          "name": "訊使",
+          "group": "FOUR"
+        },
+        {
+          "id": "Croissant",
+          "name": "可頌",
+          "group": "FIVE"
+        },
+        {
+          "id": "Cuora",
+          "name": "蛇屠箱",
+          "group": "FOUR"
+        },
+        {
+          "id": "Cutter",
+          "name": "刻刀",
+          "group": "FOUR"
+        },
+        {
+          "id": "Deepcolor",
+          "name": "深海色",
+          "group": "FOUR"
+        },
+        {
+          "id": "Dobermann",
+          "name": "杜賓",
+          "group": "FOUR"
+        },
+        {
+          "id": "Dur-nar",
+          "name": "堅雷",
+          "group": "FOUR"
+        },
+        {
+          "id": "Durin",
+          "name": "杜林",
+          "group": "TWO"
+        },
+        {
+          "id": "Earthspirit",
+          "name": "地靈",
+          "group": "FOUR"
+        },
+        {
+          "id": "Elysium",
+          "name": "極境",
+          "group": "FIVE"
+        },
+        {
+          "id": "Estelle",
+          "name": "艾絲黛爾",
+          "group": "FOUR"
+        },
+        {
+          "id": "Ethan",
+          "name": "伊桑",
+          "group": "FOUR"
+        },
+        {
+          "id": "Executor",
+          "name": "送葬人",
+          "group": "FIVE"
+        },
+        {
+          "id": "Exusiai",
+          "name": "能天使",
+          "group": "SIX"
+        },
+        {
+          "id": "Eyjafjalla",
+          "name": "艾雅法拉",
+          "group": "SIX"
+        },
+        {
+          "id": "FEater",
+          "name": "食鐵獸",
+          "group": "FIVE"
+        },
+        {
+          "id": "Fang",
+          "name": "芬",
+          "group": "THREE"
+        },
+        {
+          "id": "Firewatch",
+          "name": "守林人",
+          "group": "FIVE"
+        },
+        {
+          "id": "Flamebringer",
+          "name": "炎客",
+          "group": "FIVE"
+        },
+        {
+          "id": "Franka",
+          "name": "芙蘭卡",
+          "group": "FIVE"
+        },
+        {
+          "id": "Frostleaf",
+          "name": "霜葉",
+          "group": "FOUR"
+        },
+        {
+          "id": "Gavial",
+          "name": "嘉維爾",
+          "group": "FOUR"
+        },
+        {
+          "id": "Gitano",
+          "name": "遠山",
+          "group": "FOUR"
+        },
+        {
+          "id": "Glaucus",
+          "name": "格勞克斯",
+          "group": "FIVE"
+        },
+        {
+          "id": "Grani",
+          "name": "格拉尼",
+          "group": "FIVE"
+        },
+        {
+          "id": "Gravel",
+          "name": "礫",
+          "group": "FOUR"
+        },
+        {
+          "id": "GreyThroat",
+          "name": "灰喉",
+          "group": "FIVE"
+        },
+        {
+          "id": "Greyy",
+          "name": "格雷伊",
+          "group": "FOUR"
+        },
+        {
+          "id": "Haze",
+          "name": "夜煙",
+          "group": "FOUR"
+        },
+        {
+          "id": "Hellagur",
+          "name": "赫拉格",
+          "group": "SIX"
+        },
+        {
+          "id": "Hibiscus",
+          "name": "芙蓉",
+          "group": "THREE"
+        },
+        {
+          "id": "Hoshiguma",
+          "name": "星熊",
+          "group": "SIX"
+        },
+        {
+          "id": "Hung",
+          "name": "吽",
+          "group": "FIVE"
+        },
+        {
+          "id": "Ifrit",
+          "name": "伊芙利特",
+          "group": "SIX"
+        },
+        {
+          "id": "Indra",
+          "name": "因陀羅",
+          "group": "FIVE"
+        },
+        {
+          "id": "Jessica",
+          "name": "傑西卡",
+          "group": "FOUR"
+        },
+        {
+          "id": "Kroos",
+          "name": "克洛絲",
+          "group": "THREE"
+        },
+        {
+          "id": "Lancet-2",
+          "name": "Lancet-2",
+          "group": "ONE"
+        },
+        {
+          "id": "Lappland",
+          "name": "拉普蘭德",
+          "group": "FIVE"
+        },
+        {
+          "id": "Lava",
+          "name": "炎熔",
+          "group": "THREE"
+        },
+        {
+          "id": "Leizi",
+          "name": "驚蟄",
+          "group": "FIVE"
+        },
+        {
+          "id": "Liskarm",
+          "name": "雷蛇",
+          "group": "FIVE"
+        },
+        {
+          "id": "Magallan",
+          "name": "麥哲倫",
+          "group": "SIX"
+        },
+        {
+          "id": "Manticore",
+          "name": "獅蠍",
+          "group": "FIVE"
+        },
+        {
+          "id": "Matoimaru",
+          "name": "纏丸",
+          "group": "FOUR"
+        },
+        {
+          "id": "Matterhorn",
+          "name": "角峰",
+          "group": "FOUR"
+        },
+        {
+          "id": "May",
+          "name": "梅",
+          "group": "FOUR"
+        },
+        {
+          "id": "Mayer",
+          "name": "梅爾",
+          "group": "FIVE"
+        },
+        {
+          "id": "Melantha",
+          "name": "玫蘭莎",
+          "group": "THREE"
+        },
+        {
+          "id": "Meteor",
+          "name": "流星",
+          "group": "FOUR"
+        },
+        {
+          "id": "Meteorite",
+          "name": "隕星",
+          "group": "FIVE"
+        },
+        {
+          "id": "Midnight",
+          "name": "月見夜",
+          "group": "THREE"
+        },
+        {
+          "id": "Mostima",
+          "name": "莫斯提馬",
+          "group": "SIX"
+        },
+        {
+          "id": "Mousse",
+          "name": "慕斯",
+          "group": "FOUR"
+        },
+        {
+          "id": "Myrrh",
+          "name": "末藥",
+          "group": "FOUR"
+        },
+        {
+          "id": "Myrtle",
+          "name": "桃金孃",
+          "group": "FOUR"
+        },
+        {
+          "id": "Nearl",
+          "name": "臨光",
+          "group": "FIVE"
+        },
+        {
+          "id": "Nian",
+          "name": "年",
+          "group": "SIX"
+        },
+        {
+          "id": "Nightingale",
+          "name": "夜鶯",
+          "group": "SIX"
+        },
+        {
+          "id": "Nightmare",
+          "name": "夜魔",
+          "group": "FIVE"
+        },
+        {
+          "id": "NoirCorne",
+          "name": "黑角",
+          "group": "TWO"
+        },
+        {
+          "id": "Orchid",
+          "name": "梓蘭",
+          "group": "THREE"
+        },
+        {
+          "id": "Perfumer",
+          "name": "調香師",
+          "group": "FOUR"
+        },
+        {
+          "id": "Phantom",
+          "name": "傀影",
+          "group": "SIX"
+        },
+        {
+          "id": "Platinum",
+          "name": "白金",
+          "group": "FIVE"
+        },
+        {
+          "id": "Plume",
+          "name": "翎羽",
+          "group": "THREE"
+        },
+        {
+          "id": "Popukar",
+          "name": "泡普卡",
+          "group": "THREE"
+        },
+        {
+          "id": "Pramanix",
+          "name": "初雪",
+          "group": "FIVE"
+        },
+        {
+          "id": "ProjeKTRed",
+          "name": "紅",
+          "group": "FIVE"
+        },
+        {
+          "id": "Provence",
+          "name": "普羅旺斯",
+          "group": "FIVE"
+        },
+        {
+          "id": "Ptilopsis",
+          "name": "白面鴞",
+          "group": "FIVE"
+        },
+        {
+          "id": "Purestream",
+          "name": "清流",
+          "group": "FOUR"
+        },
+        {
+          "id": "Rangers",
+          "name": "巡林者",
+          "group": "TWO"
+        },
+        {
+          "id": "Reed",
+          "name": "葦草",
+          "group": "FIVE"
+        },
+        {
+          "id": "Rope",
+          "name": "暗索",
+          "group": "FOUR"
+        },
+        {
+          "id": "Saria",
+          "name": "塞雷婭",
+          "group": "SIX"
+        },
+        {
+          "id": "Savage",
+          "name": "暴行",
+          "group": "FIVE"
+        },
+        {
+          "id": "Scavenger",
+          "name": "清道夫",
+          "group": "FOUR"
+        },
+        {
+          "id": "Schwarz",
+          "name": "黑",
+          "group": "SIX"
+        },
+        {
+          "id": "Sesa",
+          "name": "懾砂",
+          "group": "FIVE"
+        },
+        {
+          "id": "Shamare",
+          "name": "巫戀",
+          "group": "FIVE"
+        },
+        {
+          "id": "Shaw",
+          "name": "阿消",
+          "group": "FOUR"
+        },
+        {
+          "id": "Shining",
+          "name": "閃靈",
+          "group": "SIX"
+        },
+        {
+          "id": "ShiraYuki",
+          "name": "白雪",
+          "group": "FOUR"
+        },
+        {
+          "id": "Sideroca",
+          "name": "鑄鐵",
+          "group": "FIVE"
+        },
+        {
+          "id": "Siege",
+          "name": "推進之王",
+          "group": "SIX"
+        },
+        {
+          "id": "Silence",
+          "name": "赫默",
+          "group": "FIVE"
+        },
+        {
+          "id": "SilverAsh",
+          "name": "銀灰",
+          "group": "SIX"
+        },
+        {
+          "id": "Skadi",
+          "name": "斯卡蒂",
+          "group": "SIX"
+        },
+        {
+          "id": "Skyfire",
+          "name": "天火",
+          "group": "FIVE"
+        },
+        {
+          "id": "Snowsant",
+          "name": "雪雉",
+          "group": "FIVE"
+        },
+        {
+          "id": "Sora",
+          "name": "空",
+          "group": "FIVE"
+        },
+        {
+          "id": "Specter",
+          "name": "幽靈鯊",
+          "group": "FIVE"
+        },
+        {
+          "id": "Spot",
+          "name": "斑點",
+          "group": "THREE"
+        },
+        {
+          "id": "Steward",
+          "name": "史都華德",
+          "group": "THREE"
+        },
+        {
+          "id": "Sussurro",
+          "name": "蘇蘇洛",
+          "group": "FOUR"
+        },
+        {
+          "id": "Swire",
+          "name": "詩懷雅",
+          "group": "FIVE"
+        },
+        {
+          "id": "Texas",
+          "name": "德克薩斯",
+          "group": "FIVE"
+        },
+        {
+          "id": "Thermal-EX",
+          "name": "THRM-EX",
+          "group": "ONE"
+        },
+        {
+          "id": "Utage",
+          "name": "宴",
+          "group": "FOUR"
+        },
+        {
+          "id": "Vanilla",
+          "name": "香草",
+          "group": "THREE"
+        },
+        {
+          "id": "Vermeil",
+          "name": "紅雲",
+          "group": "FOUR"
+        },
+        {
+          "id": "Vigna",
+          "name": "紅豆",
+          "group": "FOUR"
+        },
+        {
+          "id": "Vulcan",
+          "name": "火神",
+          "group": "FIVE"
+        },
+        {
+          "id": "W",
+          "name": "W",
+          "group": "SIX"
+        },
+        {
+          "id": "Waai Fu",
+          "name": "槐琥",
+          "group": "FIVE"
+        },
+        {
+          "id": "Warfarin",
+          "name": "華法琳",
+          "group": "FIVE"
+        },
+        {
+          "id": "Weedy",
+          "name": "溫蒂",
+          "group": "SIX"
+        },
+        {
+          "id": "Yato",
+          "name": "夜刀",
+          "group": "TWO"
+        },
+        {
+          "id": "Гум",
+          "name": "古米",
+          "group": "FOUR"
+        },
+        {
+          "id": "Зима",
+          "name": "凜冬",
+          "group": "FIVE"
+        },
+        {
+          "id": "Истина",
+          "name": "真理",
+          "group": "FIVE"
+        }
+      ],
+    "pools": [
+        {
+            "id": "default",
+            "name": "示範池",
+            "groups": [
+                {
+                    "groupId": "SIX",
+                    "rate": 0.02,
+                    "up": {
+                    },
+                    "cards": [
+                        "Siege",
+                        "SilverAsh",
+                        "Exusiai"
+                    ]
+                },
+                {
+                    "groupId": "FIVE",
+                    "rate": 0.08,
+                    "cards": [
+                        "Texas",
+                        "Зима",
+                        "Savage"
+                    ]
+                },
+                {
+                    "groupId": "FOUR",
+                    "rate": 0.48,
+                    "cards": [
+                        "Vigna",
+                        "Scavenger",
+                        "Courier"
+                    ]
+                },
+                {
+                    "groupId": "THREE",
+                    "rate": 0.42,
+                    "cards": [
+                        "Fang",
+                        "Plume",
+                        "Vanilla"
+                    ]
+                }
+            ]
+        }
+    ]
+}
